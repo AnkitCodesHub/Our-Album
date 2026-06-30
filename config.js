@@ -14,5 +14,5 @@ window.ALBUM_CONFIG = {
 
   // The very last thing she sees
   closingTitle: "still going",
-  closingMessage: "This is a very little present to show my love to you,i know its not much but i hope you like it",
+  closingMessage: "This is a very little present to show my love to you,i know its not much but i hope you like it 💖💖",
 };
