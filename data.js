@@ -10,24 +10,24 @@ window.ALBUM_PHOTOS = [
   // ── 2024 ──────────────────────────────────────────────────────────────────
   { src: "Snapchat-1558331566.jpg", date: "2024-11-24", caption: "this was the first time you cried in my arms and siad mai to tmhare liye ab kisi se v lad skti hoon" },
   { src: "1782843233953.jpg", date: "2024-12-13", caption: "That day tum bhot roi thi fir hamlog market gae the awr bus stand me meri didi mili thi awr tum jhat se pair choo lo thi" },
-  { src: "1782843234692.JPG", date: "2024-12-23", caption: "Random sunny day when we didnt knew that we will come this far" },
+  { src: "1782843234692.JPG", date: "2024-12-23", caption: "Random sunny day when we didn't knew that we will come this far" },
 
   // ── 2025 ──────────────────────────────────────────────────────────────────
-  { src: "1782843234157.jpg", date: "2025-01-22", caption: "Ye mere birthday ka photo h par,awr phli bar mer birthday is tarah se kisi ne celebrate kiye tha par sayd mai naraz tha us di" },
+  { src: "1782843234157.jpg", date: "2025-01-22", caption: "Ye mere birthday ka photo h par,awr phli bar mer birthday is tarah se kisi ne celebrate kiye tha par sayd mai naraz tha us din" },
   { src: "1782843234750.jpg", date: "2025-03-09", caption: "jis din mai photo khichwane ke liye specially kapda change karke aaya tha" },
   { src: "1782843234233.JPG", date: "2025-04-18", caption: "Ye hamara kakolat trip tha jisme tmhara tank top kho gya tah" },
   { src: "1782843233827.jpg", date: "2025-04-26", caption: "This is when hurt me the most" },
-  { src: "Snapchat-99738575.jpg", date: "2025-06-03", caption: "mera result kharab aaya tha to aap aain thi mujhe samjhane wese i never cared about it but tumhari happiness mere liye matter karti h" },
-  { src: "1782843234626.JPG", date: "2025-06-30", caption: "it was our seniors farewell who knwe that it will be ours next year so sad,but you looked awsome that day" },
-  { src: "IMG_20250926_193641_916.jpg", date: "2025-09-26", caption: "This was the first time wehn i thought i should confess my love to you" },
+  { src: "Snapchat-99738575.jpg", date: "2025-06-03", caption: "mera result kharab aaya tha to aap aain thi mujhe samjhane, wese i never mai thoda jyada kar rha tha par bhot achha lga tha us din" },
+  { src: "1782843234626.JPG", date: "2025-06-30", caption: "it was our seniors farewell who knew that it will be ours next year so sad,but you looked awsome that day" },
+  { src: "IMG_20250926_193641_916.jpg", date: "2025-09-26", caption: "This was the first time wehn I thought I should confess my love to you" },
   { src: "1782843234089.jpg", date: "2025-11-16", caption: "our first official kiss and is din tumne bola tha ki jab door hi jana h to itna paas kyu aa rhe ho now look pas kyu aae the!" },
 
   // ── 2026 ──────────────────────────────────────────────────────────────────
   { src: "1782843234371.jpg", date: "2026-02-05", caption: "jitne pyar se dekh rha hu us se v jyada pyari lag rhi thi" },
   { src: "IMG_8011_edited.jpg", date: "2026-02-26", caption: "Bhot logo ne bola h ki pati patni jese lag rhe ho" },
   { src: "IMG-20260309-WA0016.jpg", date: "2026-03-09", caption: "Sunday ko nashta karne nikle teh awr rajgir ja pahuche" },
-  { src: "1782843234494.jpg", date: "2026-03-22", caption: "Your birthday when i liked you a bit more" },
+  { src: "1782843234494.jpg", date: "2026-03-22", caption: "Your birthday when i liked you a bit more,awr tmlog cake v lana bhool gae the" },
   { src: "IMG-20260322-WA0005.jpg", date: "2026-04-26", caption: "Aap ghar se aain thin awr mujh se ruithi hui thi" },
-  { src: "1782843234032.jpg", date: "2026-05-30", caption: "Is samay tak to tum meri life ka bhot bda hissa ban chuki ho almost my whole world" },
-  { src: "IMG-20260606-WA0012.jpg", date: "2026-05-30", caption: "Is photo ko to kisi ki nazar na lage" },
+  { src: "1782843234032.jpg", date: "2026-05-30", caption: "Is samay tak to tum meri life ka bhot bda hissa ban chuki ho almost my whole world,🥰" },
+  { src: "IMG-20260606-WA0012.jpg", date: "2026-05-30", caption: "Is photo ko to kisi ki nazar na lage🤗🤗" },
 ];
